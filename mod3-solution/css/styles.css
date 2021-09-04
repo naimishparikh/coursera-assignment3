@@ -1,0 +1,38 @@
+#header-nav {
+  background-color: lightgray;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  text-align: left;
+}
+
+#collapsable-nav a 
+{
+  text-align: center;
+  font-weight: bold;
+}
+
+#section1,#section2,#section3 {
+    background-color: grey;
+    position: relative;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+
+.row {
+  width: 100%;
+}
